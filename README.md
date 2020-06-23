@@ -13,9 +13,7 @@ Alguns joguinhos em Pygames
    - Coloquei uma imagem de fundo (Tinha escolhido uma bem bacana, mas mudei pois não queria problemas com Copyright)
   
  - Alien Invasion:
-   Corresponde ao Cap 12
- 
-   Ainda falta algumas coisas
+   Corresponde ao Cap 12, Ainda falta algumas coisas
    Adicional:
     - Musica de fundo
   
