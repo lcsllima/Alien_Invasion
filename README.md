@@ -13,8 +13,15 @@ Alguns joguinhos em Pygames
    - Coloquei uma imagem de fundo (Tinha escolhido uma bem bacana, mas mudei pois não queria problemas com Copyright)
   
  - Alien Invasion:
-   Corresponde ao Cap 12, Ainda falta algumas coisas
-   Adicional:
-    - Musica de fundo
+  <strike> Corresponde ao Cap 12, Ainda falta algumas coisas </strike>
+  Corresponde aos capítulos 12, 13 e 14.
+  Esta completo. Não é 100% fiel ao código do livro pois no meu tinha alguns erros de impressão então fiz com o que pude!
+  Se você perceber outras alterações, foram para o bem da jogo.
+  
+  <strong>Talvez? </strong>
+  Coloquei uma musiquinha de fundo, e posteriormente vou fazer ela ter um loop, também irei incrementar um plano de fundo e trocar as skins.
+  Talvez eu faça mais alterações.
   
   
+  
+Se você quiser testar o jogo, você vai precisar do Python atualizado e das bibliotecas instaladas na sua máquina.
