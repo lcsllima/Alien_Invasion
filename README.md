@@ -19,7 +19,7 @@ Livro: Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projeto
    - Coloquei uma imagem de fundo (Tinha escolhido uma bem bacana, mas mudei pois não queria problemas com Copyright)
   
   
-Se você quiser testar o jogo, você vai precisar do Python atualizado e das bibliotecas instaladas na sua máquina.
+Se você quiser testar o jogo, você vai precisar do Python atualizado e do pygame instalados na sua máquina.
 
 <h4>O que aprendi com o Alien Invasion</h4>
 
