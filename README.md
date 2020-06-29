@@ -25,3 +25,10 @@ Alguns joguinhos em Pygames
   
   
 Se você quiser testar o jogo, você vai precisar do Python atualizado e das bibliotecas instaladas na sua máquina.
+
+<h4>O que aprendi com o Alien Invasion</h4>
+
+- Usar uma framework
+- Uma visão mais avançada com relação ao Python OO, isso inclui melhor criação de classes e nomear funções.
+- StackOverFlow sempre tem algo de útil.
+
