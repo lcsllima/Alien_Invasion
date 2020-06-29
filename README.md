@@ -1,16 +1,7 @@
-# pygame
+# Alien_Invasion
 
 Livro: Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação
        Python Crash Course: A Hands-On, Project-Based Introduction to Programming
-       
-       
-
-Alguns joguinhos em Pygames
-
-- FOGUETE:
-  Esse esta pronto, corresponde ao ex 12.3
-  Adicional:
-   - Coloquei uma imagem de fundo (Tinha escolhido uma bem bacana, mas mudei pois não queria problemas com Copyright)
   
  - Alien Invasion:
   <strike> Corresponde ao Cap 12, Ainda falta algumas coisas </strike>
@@ -22,6 +13,10 @@ Alguns joguinhos em Pygames
   Coloquei uma musiquinha de fundo, e posteriormente vou fazer ela ter um loop, também irei incrementar um plano de fundo e trocar as skins.
   Talvez eu faça mais alterações.
   
+- FOGUETE:
+  Esse esta pronto, corresponde ao ex 12.3
+  Adicional:
+   - Coloquei uma imagem de fundo (Tinha escolhido uma bem bacana, mas mudei pois não queria problemas com Copyright)
   
   
 Se você quiser testar o jogo, você vai precisar do Python atualizado e das bibliotecas instaladas na sua máquina.
